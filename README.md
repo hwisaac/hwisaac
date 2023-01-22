@@ -14,17 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>GitHub stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hwisaac&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hwisaac&show_icons=true&theme=swift)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h3>Top languages</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&layout=compact&card_width=444&langs_count=8&theme=swift&hide=html)
 
-<h3>My top languages</h3>
+<h3>Development times</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&layout=compact&card_width=444&langs_count=8&theme=gruvbox&hide=html)
-
-<h3>My development times</h3>
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwisaac&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwisaac&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
