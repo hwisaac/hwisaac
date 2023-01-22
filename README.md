@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwisaac)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+<h3>My top languages</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&layout=compact&card_width=444&langs_count=8&theme=gruvbox)
+
+<h3>My development times</h3>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwisaac&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
