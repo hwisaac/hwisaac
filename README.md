@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&hide=html&layout=compact)](https://github.com/hwisaac/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwisaac)](https://github.com/hwisaac/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hwisaac&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
