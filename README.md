@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3>Top languages</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&layout=compact&card_width=444&langs_count=8&theme=swift&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwisaac&layout=compact&card_width=444&langs_count=8&theme=swift&hide=html,tex)
 
 <h3>Development times</h3>
 
